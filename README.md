@@ -2,7 +2,9 @@
 
 RedisCache implementation for Second Level Cache for Entity Framework 6.1 (https://efcache.codeplex.com/) ICache interface.
 
-Nuget package will be created soon.
+Nuget:
+
+https://www.nuget.org/packages/EFCache.RedisCache
 
 Does not support cache expiration just yet. 
 
